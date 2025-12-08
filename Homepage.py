@@ -58,8 +58,8 @@ st.markdown(
     <div style="text-align:center; padding:10px; margin-top:30px; font-size:16px; color:gray;">
         🚀 Made with ❤️ by 
         <a href="https://www.linkedin.com/in/sanyogdongre" target="_blank" style="text-decoration:none; color:#4CAF50;"><b>Sanyog</b></a> 
-        and 
-        <a href="https://www.linkedin.com/in/kayashth1" target="_blank" style="text-decoration:none; color:#4CAF50;"><b>Yash</b></a>
+        # and 
+        # <a href="https://www.linkedin.com/in/kayashth1" target="_blank" style="text-decoration:none; color:#4CAF50;"><b>Yash</b></a>
     </div>
     """,
     unsafe_allow_html=True
